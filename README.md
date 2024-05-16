@@ -1,5 +1,7 @@
 # Earth Guardian
 
+# [Game Interface] <img src="./assets/images/Earth_Guardian.png">
+
 
 -------------------
 
@@ -32,7 +34,8 @@
 ## **Screenshots 📸**
 
 <br>
-![Game image] <img src="./assets/images/screenshot.png">
+ # [Game image] <img src="./assets/images/Earth Guardian.png">
+
 
 <br>
 
